@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "Basics.HelloWorld",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "ManyToMany",
+            "request": "launch",
+            "mainClass": "OOPS_FULL.Inheritance.class_realationships_inJAVA.ManyToMany",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "OneToOneTest",
+            "request": "launch",
+            "mainClass": "OOPS_FULL.Inheritance.class_realationships_inJAVA.OneToOneTest",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "Inhertance_IS_A",
+            "request": "launch",
+            "mainClass": "OOPS_FULL.Inheritance.class_realationships_inJAVA.Inhertance_IS_A",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "Association_HAS_A",
+            "request": "launch",
+            "mainClass": "OOPS_FULL.Inheritance.class_realationships_inJAVA.Association_HAS_A",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "DependenceRelation_USES_A",
+            "request": "launch",
+            "mainClass": "OOPS_FULL.Inheritance.class_realationships_inJAVA.DependenceRelation_USES_A",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "SuperAndThisKeyword",
+            "request": "launch",
+            "mainClass": "OOPS_FULL.Inheritance.SuperAndThisKeyword",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "StaticAndNonStatic",
+            "request": "launch",
+            "mainClass": "OOPS_FULL.Inheritance.StaticAndNonStatic",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "StaticAndConsAndInstance",
+            "request": "launch",
+            "mainClass": "OOPS_FULL.Inheritance.StaticAndConsAndInstance",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "InheritanceTest",
+            "request": "launch",
+            "mainClass": "OOPS_FULL.Inheritance.InheritanceTest",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "Son",
+            "request": "launch",
+            "mainClass": "OOPS_FULL.Inheritance.Son",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS_FULL.Encapsulation.Main",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "StreanAPI_InterviewQ",
+            "request": "launch",
+            "mainClass": "StreamAPi_JAVA.StreanAPI_InterviewQ",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "Filter_Map_Ex",
+            "request": "launch",
+            "mainClass": "StreamAPi_JAVA.Filter_Map_Ex",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "Stream_Intermediate_Operations",
+            "request": "launch",
+            "mainClass": "StreamAPi_JAVA.Stream_Intermediate_Operations",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "Stream_Filter_Ex",
+            "request": "launch",
+            "mainClass": "StreamAPi_JAVA.Stream_Filter_Ex",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "FinallyExample",
+            "request": "launch",
+            "mainClass": "Basics.FinallyExample",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Strings.Palindrome",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "Strings.ReverseString",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorEx",
+            "request": "launch",
+            "mainClass": "Strings.ConstructorEx",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "ToStringMethod",
+            "request": "launch",
+            "mainClass": "Strings.ToStringMethod",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "MutableUsingSB",
+            "request": "launch",
+            "mainClass": "Strings.MutableUsingSB",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "ImmutableString",
+            "request": "launch",
+            "mainClass": "Strings.ImmutableString",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "StringCreations",
+            "request": "launch",
+            "mainClass": "Strings.StringCreations",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "StringLiteral",
+            "request": "launch",
+            "mainClass": "Strings.StringLiteral",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "MathOperations",
+            "request": "launch",
+            "mainClass": "Basics.MathOperations",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "ObjectClass",
+            "request": "launch",
+            "mainClass": "Basics.ObjectClass",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "JavaOperators",
+            "request": "launch",
+            "mainClass": "Basics.JavaOperators",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "MultiThreadingThreadClass",
+            "request": "launch",
+            "mainClass": "MultiThreadingThreadClass",
+            "projectName": "my_java_workspace_686e68fc"
+        },
+        {
+            "type": "java",
+            "name": "RunnableInterfaceThread",
+            "request": "launch",
+            "mainClass": "RunnableInterfaceThread",
+            "projectName": "my_java_workspace_686e68fc"
+        }
+    ]
+}
